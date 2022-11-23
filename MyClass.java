@@ -39,14 +39,4 @@ public class MyClass {
             System.out.printf("%c = %.4f\n", letters[i], res);
         }
     }
-    
-    static class Color {
-        double R, G, B;
-        
-        Color(double R, double G, double B) {
-            this.R = R;
-            this.G = G;
-            this.B = B;
-        }
-    }
 }
