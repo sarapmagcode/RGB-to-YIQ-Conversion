@@ -6,7 +6,7 @@
 
 public class MyClass {
     public static void main(String args[]) {
-        double[] color = new double[] {0.8, 0.8, 0.7};
+        double[] color = new double[] {0.8, 0.8, 0.7}; // change this
         double[][] mat = new double[][] {
             {0.299, 0.587, 0.114},
             {0.596, -0.274, -0.322},
